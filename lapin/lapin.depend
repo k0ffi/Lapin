@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1697649242 source:/home3/md691627/SyntheseImage/lapin/main.cpp
+	<cstdio>
+	<cstdlib>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+	<cmath>
+
+1700210460 source:/home3/md691627/Licence3/SyntheseImage/lapin/main.cpp
+	<cstdio>
+	<cstdlib>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+	<cmath>
+
+1699273463 source:/home3/kd974491/Desktop/L3/SI/lapinM/lapin/main.cpp
+	<cstdio>
+	<cstdlib>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+	<cmath>
+
+1699629397 source:/home3/md691627/Licence3/SyntheseImage/lapin/lapinM/lapin/main.cpp
+	<cstdio>
+	<cstdlib>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+	<cmath>
+
+1700210460 source:/home3/md691627/Licence3/SyntheseImage/lapinM/lapin/lapinM/lapin/main.cpp
+	<cstdio>
+	<cstdlib>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+	<cmath>
+
